@@ -1,6 +1,6 @@
 <!-- Header: animated wave banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b0d,50:7a0a10,100:e50914&height=200&section=header&text=dx.bi&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Open%20source%20apps%20for%20streaming%2C%20browsers%20%26%20Linux&descAlignY=60&descSize=18&animation=fadeIn" alt="dx.bi" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b0d,50:7a0a10,100:e50914&height=200&section=header&text=dx.bi&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Open%20source%20streaming%20and%20Linux%20apps&descAlignY=60&descSize=18&animation=fadeIn" alt="dx.bi" width="100%"/>
 </p>
 
 <p align="center">
