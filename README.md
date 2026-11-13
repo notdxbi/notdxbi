@@ -20,7 +20,6 @@
 ### 👋 About me
 
 - 🎬 I make **[dx.bi](https://github.com/notdxbi/dxbi-stremio)**, a Netflix-style streaming app for computers, TVs, phones and the web
-- 🛡️ And **[dx.block](https://github.com/notdxbi/dxblock)**, the ad blocker that blocks everything
 - 🐧 I daily-drive Linux (Hyprland) and build tools that make it nicer to use
 - 🛠️ I care about polish: fast UI, accessible defaults and clear changelogs
 - 🤝 Pull requests are welcome. Contributors are credited in every release
