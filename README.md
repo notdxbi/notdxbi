@@ -26,7 +26,7 @@
 - 🤝 Pull requests are welcome. Contributors are credited in every release
 - 💬 The quickest way to reach me is the [dx.bi Discord](https://discord.gg/nnVBjqZ84F)
 
-### 🚀 Featured projects
+### 🚀 Featured project
 
 <table>
   <tr>
@@ -44,7 +44,8 @@
       <p>Watch parties · Just press Play · downloads · viewer profiles · skip intro · watch stats · Anime4K</p>
     </td>
   </tr>
- 
+</table>
+
 ### 🧰 Tech I use
 
 <p align="center">
