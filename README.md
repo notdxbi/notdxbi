@@ -44,23 +44,7 @@
       <p>Watch parties · Just press Play · downloads · viewer profiles · skip intro · watch stats · Anime4K</p>
     </td>
   </tr>
-  <tr>
-    <td width="55%">
-      <a href="https://github.com/notdxbi/dxblock"><img src="https://raw.githubusercontent.com/notdxbi/dxblock/main/docs/social-preview.png" alt="dx.block" width="100%"/></a>
-    </td>
-    <td>
-      <h3><a href="https://github.com/notdxbi/dxblock">dx.block</a></h3>
-      <p>The ad blocker that blocks everything: 100% on superadblocktest and 132/132 on turtlecute. A free, open-source MV3 blocker for Brave, Chrome, Edge and Firefox with a live dashboard, pop-up blocking and privacy tools.</p>
-      <p>
-        <img src="https://img.shields.io/github/stars/notdxbi/dxblock?style=flat-square&color=e50914" alt="Stars"/>
-        <img src="https://img.shields.io/github/v/release/notdxbi/dxblock?style=flat-square&color=e50914&label=latest" alt="Latest release"/>
-        <img src="https://img.shields.io/github/downloads/notdxbi/dxblock/total?style=flat-square&color=e50914" alt="Downloads"/>
-      </p>
-      <p>Ads · trackers · pop-ups · cookie banners · anti-fingerprinting · fake-site warnings</p>
-    </td>
-  </tr>
-</table>
-
+ 
 ### 🧰 Tech I use
 
 <p align="center">
