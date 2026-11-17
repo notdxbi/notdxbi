@@ -10,7 +10,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-United%20Kingdom-1f1f24?style=for-the-badge&logo=googlemaps&logoColor=e50914" alt="Location: United Kingdom"/>
   <a href="https://discord.gg/nnVBjqZ84F"><img src="https://img.shields.io/badge/Discord-dx.bi%20community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
   <a href="https://buymeacoffee.com/notdxbi"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-support-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee"/></a>
 </p>
